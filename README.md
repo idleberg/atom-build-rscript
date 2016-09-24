@@ -38,8 +38,8 @@ $ git clone https://github.com/idleberg/atom-build-rscript build-rscript
 Install Node dependencies:
 
 ```bash
-cd build-rscript
-npm install
+$ cd build-rscript
+$ npm install
 ```
 
 ## Usage
