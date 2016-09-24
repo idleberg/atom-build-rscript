@@ -35,6 +35,13 @@ Clone repository as `build-rscript`:
 $ git clone https://github.com/idleberg/atom-build-rscript build-rscript
 ```
 
+Install Node dependencies:
+
+```bash
+cd build-rscript
+npm install
+```
+
 ## Usage
 
 ### Build
