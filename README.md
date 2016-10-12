@@ -35,10 +35,9 @@ Clone repository as `build-rscript`:
 $ git clone https://github.com/idleberg/atom-build-rscript build-rscript
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd build-rscript
 $ yarn || npm install
 ```
 
