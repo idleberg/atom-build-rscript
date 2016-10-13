@@ -17,7 +17,7 @@ Install `build-rscript` from Atom's [Package Manager](http://flight-manual.atom.
 
 `$ apm install build-rscript`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
