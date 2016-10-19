@@ -49,7 +49,8 @@ Before you can build, select an active target with your preferred build option.
 
 Available targets:
 
-* `Rscript`
+* `Rscript` - run script
+* `Rscript (user)` - run script with arguments specified in the package settings
 
 ### Shortcuts
 
