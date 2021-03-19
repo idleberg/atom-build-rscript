@@ -23,8 +23,8 @@ export function provideBuilder() {
         return true;
       }
 
-      const cmd = spawnSync(which(), ['Rscript']);
-      if (!cmd.stdout.toString()) {
+      const whichCommand = spawnSync(which(), ['Rscript']);
+      if (!whichCommand?.stdout?.toString()) {
         return false;
       }
 
