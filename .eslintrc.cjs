@@ -10,6 +10,10 @@ module.exports = {
     'eslint:recommended',
     'plugin:json/recommended'
   ],
+  ignorePatterns: [
+    '/lib',
+    '/node_modules'
+  ],
   globals: {
     atom: "readonly"
   },
