@@ -1,10 +1,10 @@
 # build-rscript
 
-[![apm](https://img.shields.io/apm/l/build-rscript.svg?style=flat-square)](https://atom.io/packages/build-rscript)
-[![apm](https://img.shields.io/apm/v/build-rscript.svg?style=flat-square)](https://atom.io/packages/build-rscript)
-[![apm](https://img.shields.io/apm/dm/build-rscript.svg?style=flat-square)](https://atom.io/packages/build-rscript)
+[![apm](https://flat.badgen.net/apm/license/build-rscript)](https://atom.io/packages/build-rscript)
+[![apm](https://flat.badgen.net/apm/v/build-rscript)](https://atom.io/packages/build-rscript)
+[![apm](https://flat.badgen.net/apm/dl/build-rscript)](https://atom.io/packages/build-rscript)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-rscript)](https://circleci.com/gh/idleberg/atom-build-rscript)
-[![David](https://img.shields.io/david/idleberg/atom-build-rscript.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-rscript)
+[![David](https://flat.badgen.net/david/dev/idleberg/atom-build-rscript)](https://david-dm.org/idleberg/atom-build-rscript?type=dev)
 
 [Atom Build](https://atombuild.github.io/) provider for `Rscript`, runs R.
 
