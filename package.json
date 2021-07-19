@@ -1,6 +1,6 @@
 {
   "name": "build-rscript",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Atom Build provider for Rscript, runs R",
   "repository": "https://github.com/idleberg/atom-build-rscript",
   "license": "MIT",
